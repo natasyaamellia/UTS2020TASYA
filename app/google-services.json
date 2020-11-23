@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "957323815692",
+    "firebase_url": "https://uts-natasyaamellia.firebaseio.com",
+    "project_id": "uts-natasyaamellia",
+    "storage_bucket": "uts-natasyaamellia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957323815692:android:fd2e18f7bb1ebfbf12b729",
+        "android_client_info": {
+          "package_name": "ac.id.atmaluhur.mahasiswa.uts_amub_ti7a_1711500100_natasyaamellia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957323815692-2tcmk9ids2usjl5id1kalo1ad4kppdeo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCItYruIES4gIJLWdaq7USluSfJVAfHwQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957323815692-2tcmk9ids2usjl5id1kalo1ad4kppdeo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
